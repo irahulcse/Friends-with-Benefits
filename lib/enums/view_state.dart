@@ -1,6 +1,5 @@
-
 /// A value mapping the View UI to the state in the Model.
-/// 
+///
 /// This will contain all the possible states for any view, custom enums can be created for separate views if required
 enum ViewState {
   Idle, // When nothing is happening or just initialized
